@@ -1,4 +1,5 @@
 // Второе задание
+console.log("Второе задание");
 console.log((a1 = 5 % 3), typeof a1);
 console.log((a2 = 3 % 5), typeof a2);
 console.log((a3 = 5 + "3"), typeof a3);
@@ -36,7 +37,9 @@ console.log((a18 = true > 0), typeof a18);
 // console.log(typeof a16);
 // console.log(typeof a17);
 // console.log(typeof a18);
+
 // Третье задание
+console.log("Третье задание");
 let width = 23;
 let height = 10;
 let SPryam = width * height;
@@ -49,8 +52,10 @@ console.log(
   SPryam,
   "см квадратных"
 );
+
 // Четвертое задание
-VCilindra = 10 * (Math.PI * (a7 / 2) ** 2);
+console.log("Четвертое задание");
+let VCilindra = 10 * (Math.PI * (a7 / 2) ** 2);
 console.log(
   "Объем цилиндра высотой",
   "10см",
@@ -60,7 +65,9 @@ console.log(
   VCilindra,
   "см кубических"
 );
+
 // Пятое задание
+console.log("Пятое задание");
 let SKruga = Math.PI * 5 ** 2;
 console.log(
   "Площадь круга с радиусом",
@@ -69,11 +76,13 @@ console.log(
   SKruga,
   "см квадратных"
 );
+
 // Шестое задание
-let a = 5;
-let b = 7;
-let h = 10;
-let STrap = ((a + b) / 2) * h;
+console.log("Шестое задание");
+let a = 5,
+  b = 7,
+  h = 10,
+  STrap = ((a + b) / 2) * h;
 console.log(
   "Площадь трапеции с основаниями",
   a,
@@ -86,7 +95,9 @@ console.log(
   STrap,
   "см квадратных"
 );
+
 // Седьмое задание
+console.log("Седьмое задание");
 let s = 2000000;
 let p = 10;
 let years = 5;
@@ -102,7 +113,9 @@ console.log(
   Pereplata,
   "рублей"
 );
+
 // Возьмое задание
+console.log("Возьмое задание");
 // a = 8;
 // b = 3;
 // a + 2(x - b)=16;
